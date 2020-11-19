@@ -1,4 +1,4 @@
-//Copyright 2013 Thomson Reuters Global Resources. BSD License please see License file for more information
+//Copyright 2013 Thomson Reuters Global Resources. BSD License please see License file for more information.
 
 package ntlm
 
